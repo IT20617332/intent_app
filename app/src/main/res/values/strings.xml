@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tute_3</string>
+    <string name="tv_num1">Number 1</string>
+    <string name="tv_num2">Number 2</string>
+    <string name="et_n1" />
+    <string name="et_n2" />
+    <string name="btn_ok">OK</string>
+    <string name="tv_answer" />
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+    <string name="tv_toast">Opening Calculator</string>
+</resources>
